@@ -1,12 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const App = () => {
+const LevelScreen = () => {
   return (
     <View>
-      <Text>App</Text>
+      <Text>LevelScreen</Text>
     </View>
   )
 }
 
-export default App
+export default LevelScreen
