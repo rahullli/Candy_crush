@@ -5,15 +5,14 @@ export const commonStyles = StyleSheet.create({
     container: {
         flex: 1,
         justifyContent: "center",
-        alignItems: 'center'
+        alignItems: 'center',
     },
     img: {
         width: screenWidth * 0.6,
         height: screenHeight * 0.4,
-        resizeMode: 'contain'
+        resizeMode: 'contain',
     },
     simpleContainer: {
         flex: 1,
-       
     },
-})
+});
